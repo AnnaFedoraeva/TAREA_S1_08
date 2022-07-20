@@ -3,6 +3,8 @@ package n1exercici4;
 import java.util.Arrays;
 import java.util.List;
 
+//Fer la mateixa impressió del punt anterior, però mitjançant method reference. 
+
 public class mainS1_T8_N1_E4 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
